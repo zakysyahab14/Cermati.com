@@ -33,6 +33,6 @@
     "jest": "^26.0.1",
     "node-sass": "^4.14.1",
     "sass-loader": "^9.0.1",
-    "vue-jest": "^3.0.4"
+    "vue-jest": "^4.0.1"
   }
 }
